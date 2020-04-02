@@ -91,7 +91,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 - [Data and userful information](https://www.kaggle.com/) - This website is good for beginners who want to learn big data and machine learning.
 
-- [Free Big Data Courses](https://www.edx.org/learn/big-data) - This webpage has lot of free courses to start of your learning journey in big data field.
+- [Free Big Data Courses](https://www.edx.org/learn/big-data) - This site has lot of free courses to start of your learning journey in big data field.
 
 ## MongoDB
 
